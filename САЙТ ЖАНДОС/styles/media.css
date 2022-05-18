@@ -1,0 +1,22 @@
+@media(max-width: 414px) {
+    .header__poster-span {
+        
+    }
+}
+@media (Max-width: 1024px) {
+    
+    }
+
+@media (Max-width: 415px) {
+    .header__content {
+        display: flex;
+        flex-wrap: wrap                         ;
+    }
+    .header__content-btn {
+      display: flex;
+      flex-direction: column;
+      flex-wrap: wrap;
+      background: red;
+  }
+
+}
